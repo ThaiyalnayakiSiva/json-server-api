@@ -1,3 +1,17 @@
 {
-    "users": []
+    "users": [],
+    "formSchema": [
+        {
+            "name": "firstName",
+            "label": "First Name",
+            "type": "text",
+            "required": true
+        },
+        {
+            "name": "lastName",
+            "label": "Last Name",
+            "type": "text",
+            "required": true
+        }
+    ]
 }
